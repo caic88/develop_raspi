@@ -1,0 +1,6 @@
+#define   TEST
+
+
+
+u16   a_test = 0;
+
